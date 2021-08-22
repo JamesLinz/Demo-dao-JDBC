@@ -21,4 +21,4 @@
 #
 # Enable syntax highlighting for files with `.gitattributes` extensions.
 #
-*.gitattributes java linguist-detactable=true
+*.gitattributes linguist-language=gitattributes
