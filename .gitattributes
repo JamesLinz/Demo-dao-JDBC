@@ -22,4 +22,4 @@
 # Enable syntax highlighting for files with `.gitattributes` extensions.
 #
 
-*.python linguist-detectable=true
+*.java linguist-detectable=true
